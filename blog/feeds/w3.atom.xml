@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T07:41:56+08:00</updated><entry><title>41123202 w3</title><link href="./41123202%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-04-11T07:41:56+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123202 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;W3網誌心得&lt;/h1&gt;
+&lt;p&gt;在第三週我們主要探討了如何善用 GitHub Codespaces與Gitpod 進行協同開發，並將組員的倉儲設為分組倉儲的子模組。同時，我們還導入了LaTeX轉 PDF 的機制，有助於製作期中分組報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry></feed>
