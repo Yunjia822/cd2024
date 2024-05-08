@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T07:35:32+08:00</updated><entry><title>41123202 w2</title><link href="./41123202%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-04-11T07:35:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123202 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-05-08T11:51:53+08:00</updated><entry><title>41123202 w2</title><link href="./41123202%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-08T11:51:53+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123202 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;W2網誌心得&lt;/h1&gt;
-&lt;p&gt;利用Github Classroom進行協同分組，並在Github Codespaces維護個人或分組網站內容，且近端執行動態網站，利用近端可攜系統維護分組網站，同時Github Codespase提供了一個無需本地開發環境即可編輯和測試代碼的方便方法，近端可攜系，統無需依賴特定的工作站或設備任何地方都能夠方便地繼續你的開發作業。&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;利用Github Classroom進行協同分組，並在Github Codespaces維護個人或分組網站內容，且近端執行動態網站，利用近端可攜系統維護分組網站，同時Github Codespase提供了開發環境即可編輯和測試代碼的方便方法，統無需依賴特定的工作站或設備任何地方都能夠方便地繼續你的開發作業，在做這門課時可以問問同組的意見再透過協同使用codespace來更新群組的blog，更厲害的是不只可以更新自己，也可以從群組將自己blog推上去，方便老師觀看每周心得&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry></feed>

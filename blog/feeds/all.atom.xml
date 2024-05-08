@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-25T07:51:08+08:00</updated><entry><title>41123202 w6</title><link href="./41123202%20w6.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-04-11T08:11:52+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./41123202 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-08T11:51:53+08:00</updated><entry><title>41123202 w6</title><link href="./41123202%20w6.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-04-11T08:11:52+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./41123202 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
@@ -22,12 +22,12 @@
 
 &lt;h1&gt;W3網誌心得&lt;/h1&gt;
 &lt;p&gt;在第三週我們主要探討了如何善用 GitHub Codespaces與Gitpod 進行協同開發，並將組員的倉儲設為分組倉儲的子模組。同時，我們還導入了LaTeX轉 PDF的機制，有助於製作期中分組報告
-Github Codespaces 與 Gitpod 兩個工具提供了基於雲端的開發環境，能夠幫助團隊輕鬆共享開發環境，並實現即時協同編輯。這對於跨地區、跨時區的團隊合作特別有用，讓成員可以隨時隨地進行開發和編輯工作。子模組使得所有相關的專案都能夠保持同步，並且能夠方便地進行版本控制和管理。這樣的設定使得團隊成員能夠更加簡單地共享代碼、資源和文件並導入LaTeX轉PDF製作期中分組報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w2</title><link href="./41123202%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-04-11T07:35:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123202 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+Github Codespaces 與 Gitpod 兩個工具提供了基於雲端的開發環境，能夠幫助團隊輕鬆共享開發環境，並實現即時協同編輯。這對於跨地區、跨時區的團隊合作特別有用，讓成員可以隨時隨地進行開發和編輯工作。子模組使得所有相關的專案都能夠保持同步，並且能夠方便地進行版本控制和管理。這樣的設定使得團隊成員能夠更加簡單地共享代碼、資源和文件並導入LaTeX轉PDF製作期中分組報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w2</title><link href="./41123202%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-08T11:51:53+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123202 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;W2網誌心得&lt;/h1&gt;
-&lt;p&gt;利用Github Classroom進行協同分組，並在Github Codespaces維護個人或分組網站內容，且近端執行動態網站，利用近端可攜系統維護分組網站，同時Github Codespase提供了一個無需本地開發環境即可編輯和測試代碼的方便方法，近端可攜系，統無需依賴特定的工作站或設備任何地方都能夠方便地繼續你的開發作業。&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w1</title><link href="./41123202%20w1.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-04-11T07:42:27+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./41123202 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;p&gt;利用Github Classroom進行協同分組，並在Github Codespaces維護個人或分組網站內容，且近端執行動態網站，利用近端可攜系統維護分組網站，同時Github Codespase提供了開發環境即可編輯和測試代碼的方便方法，統無需依賴特定的工作站或設備任何地方都能夠方便地繼續你的開發作業，在做這門課時可以問問同組的意見再透過協同使用codespace來更新群組的blog，更厲害的是不只可以更新自己，也可以從群組將自己blog推上去，方便老師觀看每周心得&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w1</title><link href="./41123202%20w1.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-04-11T07:42:27+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./41123202 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
