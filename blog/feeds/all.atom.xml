@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-08T12:06:18+08:00</updated><entry><title>41123202 w6</title><link href="./41123202%20w6.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-08T12:06:18+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-03-29:./41123202 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-08T12:14:39+08:00</updated><entry><title>41123202 w6</title><link href="./41123202%20w6.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-08T12:06:18+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-03-29:./41123202 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
@@ -11,12 +11,19 @@
 &lt;h1&gt;W5網誌心得&lt;/h1&gt;
 &lt;p&gt;先整理先前的影片資料是一個重要的步驟，它有助於我們回顧以前的學習和訓練內容。這不僅可以幫助我們加深對知識的理解，還可以發現可能需要進一步學習或加強的領域。
 分組網誌統整起來是一個很好的做法，特別是在協同工作的情況下。這有助於將所有組員的貢獻整合到一個地方，使得資訊更容易查閱和分享。
-*使用NX軟體進行零組件繪圖是一個具有挑戰性但也非常有趣的任務。這需要一定的技術和經驗，但通過進行繪圖，我們可以將設計想法轉化為實際的產品或零件。透過繪圖過程，我們可以學習如何運用工程設計原則和工具來解決問題，並將設計概念轉化為具體的成果。&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w4</title><link href="./41123202%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-08T12:06:03+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-03-14:./41123202 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+*使用NX軟體進行零組件繪圖是一個具有挑戰性但也非常有趣的任務。這需要一定的技術和經驗，但通過進行繪圖，我們可以將設計想法轉化為實際的產品或零件。透過繪圖過程，我們可以學習如何運用工程設計原則和工具來解決問題，並將設計概念轉化為具體的成果。&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w4</title><link href="./41123202%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-08T12:14:39+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-03-14:./41123202 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;W4網誌心得&lt;/h1&gt;
-&lt;p&gt;第四週中各分組需要確立各組員分工，使用Source Tree可以讓團隊成員更直觀地查看倉儲的變化及分支的建立，實現同時進行多個任務和功能開發，而不會互相干擾。每個分支都可以專注於一個特定的任務或功能，從而更好地管理和追蹤進度。另一方面，如果需要檢視動態網站，則可以Replit執行 python3 main.py或使用Replit平台提供的Run按鍵。&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w3</title><link href="./41123202%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-08T12:05:58+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-03-07:./41123202 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;p&gt;第四週中各分組需要確立各組員分工，實現同時進行多個任務和功能開發，而不會互相干擾。每個分支都可以專注於一個特定的任務或功能，從而更好地管理和追蹤進度。另一方面，如果需要檢視動態網站，則可以Replit執行 python3 main.py。當然不只有Replit用github codespace也是可以的先建自己的分支，再來合併完全沒有問題。&lt;/p&gt;
+&lt;h1&gt;更新倉儲&lt;/h1&gt;
+&lt;p&gt;透過看老師的教學影片學到如果要更新倉儲有以下指令
+1 ./gen_blog
+2 git add .
+3 git commit -m "內容"
+4 git push
+例外如果遇到錯誤可以看看git pull來看哪裡出了差錯&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w3</title><link href="./41123202%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-08T12:09:01+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-03-07:./41123202 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
