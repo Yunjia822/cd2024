@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計 - w8</title><link href="./" rel="alternate"></link><link href="./feeds/w8.atom.xml" rel="self"></link><id>./</id><updated>2024-05-08T13:10:54+08:00</updated><entry><title>41123202 w8</title><link href="./41123202%20w8.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-05-08T13:10:54+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-04-18:./41123202 w8.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計 - w9</title><link href="./" rel="alternate"></link><link href="./feeds/w9.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T06:11:33+08:00</updated><entry><title>41123202 w9</title><link href="./41123202%20w9.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-05-16T06:11:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-04-18:./41123202 w9.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
-&lt;h1&gt;W8網誌心得&lt;/h1&gt;
+&lt;h1&gt;W9網誌心得&lt;/h1&gt;
 &lt;p&gt;from browser import window, ajax&lt;/p&gt;
 &lt;p&gt;def fetch_csv_data():
     url = "https://mdecd2024.github.io/2bstud-2bsite/downloads/2b.txt"&lt;/p&gt;
@@ -37,4 +37,4 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;fetch_csv_data()&lt;/p&gt;
-&lt;p&gt;此為2Bmidbg5大家從GPT得出答案，並以2b.txt得出所有人的倉儲以及網址，上述team1.tema2為了得出不同的東西而有所改變&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;此為2Bmidbg5大家從GPT得出答案，並以2b.txt得出所有人的倉儲以及網址，上述team1.tema2為了得出不同的東西而有所改變&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry></feed>
