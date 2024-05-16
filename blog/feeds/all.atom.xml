@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-18T11:00:00+08:00</updated><entry><title>41123202 bg5 w8</title><link href="./41123202%20bg5%20w8.html" rel="alternate"></link><published>2024-05-18T11:00:00+08:00</published><updated>2024-05-16T07:27:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-18:./41123202 bg5 w8.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T11:00:00+08:00</updated><entry><title>41123202 bg5 w12</title><link href="./41123202%20bg5%20w12.html" rel="alternate"></link><published>2024-05-16T11:00:00+08:00</published><updated>2024-05-16T07:29:02+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-16:./41123202 bg5 w12.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;w12網誌心得&lt;/h1&gt;
+&lt;p&gt;做這個零件時出現很多問題，一開始對功能不熟悉做出成品後卻在沒辦法錄製成功，反反覆覆五六次才成功還會有權限的問題，最後的最後用簡潔的步驟才得以成功.&lt;/p&gt;
+&lt;h1&gt;零件圖檔&lt;/h1&gt;
+&lt;p&gt;與3號共同完成 &lt;a href="https://gist.githubusercontent.com/Yunjia822/5a595b58f3e5b2492fa32c330bf57c6a/raw/5026ea8f0d9ba19b3681f8ca8cbb04f4d4899b04/gistfile1.txt"&gt;python圖檔&lt;/a&gt;
+過程影片&lt;/p&gt;
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/9ssCvRZXJTg" title="NX零件檔" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123202 bg5 w12"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w11</title><link href="./41123202%20bg5%20w11.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-05-16T08:11:11+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-09:./41123202 bg5 w11.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;W11網誌心得&lt;/h1&gt;
+&lt;p&gt;用NX的各種功能來創建平衡台的各個部件並用NX的3D建模工具來創建具有精確尺寸和形狀的部件，並使用裝配工具來將它們組合在一起。NX有許多分析工具，可以幫助我們驗證設計的正確性和性能以確保它能夠承受預期的負載以確保各個部件之間的協調和兼容性.&lt;/p&gt;</content><category term="41123202 bg5 w11"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w10</title><link href="./41123202%20bg5%20w10.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-05-16T07:28:49+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-02:./41123202 bg5 w10.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;W10網誌心得&lt;/h1&gt;
+&lt;p&gt;ChatGPT 是一個強大的語言知識庫可能遇到的問題，並提供解決方案，而Gemini 1.5 Pro來設計並繪製零組件最後使用 Claude3將設計好的模型轉換為CoppeliaSim的格式將模型載入 CoppeliaSim，我們就可以開始設計 PID 控制器。透過調整PID控制器的參數，我們可以觀察鋼球在x和y座標上的運動路徑。PD和PID之間PID控制器更能在跟踪斜坡和正弦參考信號時具有更好的性能。&lt;/p&gt;</content><category term="41123202 bg5 w10"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w9</title><link href="./41123202%20bg5%20w9.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-05-16T08:18:15+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-04-18:./41123202 bg5 w9.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
@@ -37,26 +56,7 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;fetch_csv_data()&lt;/p&gt;
-&lt;p&gt;此為2Bmidbg5大家從GPT得出答案，並以2b.txt得出所有人的倉儲以及網址，上述team1.tema2為了得出不同的東西而有所改變&lt;/p&gt;</content><category term="41123202 bg5 w8"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w12</title><link href="./41123202%20bg5%20w12.html" rel="alternate"></link><published>2024-05-16T11:00:00+08:00</published><updated>2024-05-16T07:29:02+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-16:./41123202 bg5 w12.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
-
-
-&lt;h1&gt;w12網誌心得&lt;/h1&gt;
-&lt;p&gt;做這個零件時出現很多問題，一開始對功能不熟悉做出成品後卻在沒辦法錄製成功，反反覆覆五六次才成功還會有權限的問題，最後的最後用簡潔的步驟才得以成功.&lt;/p&gt;
-&lt;h1&gt;零件圖檔&lt;/h1&gt;
-&lt;p&gt;與3號共同完成 &lt;a href="https://gist.githubusercontent.com/Yunjia822/5a595b58f3e5b2492fa32c330bf57c6a/raw/5026ea8f0d9ba19b3681f8ca8cbb04f4d4899b04/gistfile1.txt"&gt;python圖檔&lt;/a&gt;
-過程影片&lt;/p&gt;
-&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/9ssCvRZXJTg" title="NX零件檔" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123202 bg5 w12"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w11</title><link href="./41123202%20bg5%20w11.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-05-16T08:11:11+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-09:./41123202 bg5 w11.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
-
-
-&lt;h1&gt;W11網誌心得&lt;/h1&gt;
-&lt;p&gt;用NX的各種功能來創建平衡台的各個部件並用NX的3D建模工具來創建具有精確尺寸和形狀的部件，並使用裝配工具來將它們組合在一起。NX有許多分析工具，可以幫助我們驗證設計的正確性和性能以確保它能夠承受預期的負載以確保各個部件之間的協調和兼容性.&lt;/p&gt;</content><category term="41123202 bg5 w11"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w10</title><link href="./41123202%20bg5%20w10.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-05-16T07:28:49+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-02:./41123202 bg5 w10.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
-
-
-&lt;h1&gt;W10網誌心得&lt;/h1&gt;
-&lt;p&gt;ChatGPT 是一個強大的語言知識庫可能遇到的問題，並提供解決方案，而Gemini 1.5 Pro來設計並繪製零組件最後使用 Claude3將設計好的模型轉換為CoppeliaSim的格式將模型載入 CoppeliaSim，我們就可以開始設計 PID 控制器。透過調整PID控制器的參數，我們可以觀察鋼球在x和y座標上的運動路徑。PD和PID之間PID控制器更能在跟踪斜坡和正弦參考信號時具有更好的性能。&lt;/p&gt;</content><category term="41123202 bg5 w10"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w6</title><link href="./41123202%20bg5%20w6.html" rel="alternate"></link><published>2024-04-04T11:00:00+08:00</published><updated>2024-05-16T07:27:13+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-04-04:./41123202 bg5 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;p&gt;此為2Bmidbg5大家從GPT得出答案，並以2b.txt得出所有人的倉儲以及網址，上述team1.tema2為了得出不同的東西而有所改變&lt;/p&gt;</content><category term="41123202 bg5 w9"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w6</title><link href="./41123202%20bg5%20w6.html" rel="alternate"></link><published>2024-04-04T11:00:00+08:00</published><updated>2024-05-16T07:27:13+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-04-04:./41123202 bg5 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
