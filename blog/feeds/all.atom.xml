@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T07:06:54+08:00</updated><entry><title>41123202 bg5 w15</title><link href="./41123202%20bg5%20w15.html" rel="alternate"></link><published>2024-05-30T11:00:00+08:00</published><updated>2024-06-06T05:58:05+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-30:./41123202 bg5 w15.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123202協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T08:14:27+08:00</updated><entry><title>41123202 bg5 w15</title><link href="./41123202%20bg5%20w15.html" rel="alternate"></link><published>2024-05-30T11:00:00+08:00</published><updated>2024-06-06T08:14:27+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-30:./41123202 bg5 w15.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;w15網誌心得&lt;/h1&gt;
-&lt;p&gt;這周我們組別一起組裝了平衡鋼球再組的時候有些錯誤的拘束，後來慢慢地調整連桿之間的作動，最後我們也匯出成STL，再導入CoppeliaSim也放入插銷結果在試轉時發現尺吋畫錯了只好重新來過。&lt;/p&gt;</content><category term="41123202 bg5 w15"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w14</title><link href="./41123202%20bg5%20w14.html" rel="alternate"></link><published>2024-05-23T11:00:00+08:00</published><updated>2024-06-06T07:06:54+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-23:./41123202 bg5 w14.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;p&gt;這周我們組別一起組裝了平衡鋼球再組的時候有些錯誤的拘束，後來慢慢地調整連桿之間的作動，最後我們也匯出成STL，再導入CoppeliaSim也放入插銷結果在試轉時發現尺吋畫錯了只好重新來過。
+將模型從 NX 轉入 CoppeliaSim導出為STL並使用縮放和移動工具來調整模型的尺寸和比例編輯 CoppeliaSim中的模型調整尺寸及比例後進行模擬和測試確認鋼球的正常運作。&lt;/p&gt;</content><category term="41123202 bg5 w15"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w14</title><link href="./41123202%20bg5%20w14.html" rel="alternate"></link><published>2024-05-23T11:00:00+08:00</published><updated>2024-06-06T07:06:54+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-23:./41123202 bg5 w14.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
